@@ -1,0 +1,26 @@
+{
+  "name": "navigator",
+  "version": "1.0.0",
+  "description": "Navigates along x, y, z axis to show basics of game navigation in the most basic style",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "samunt"
+  },
+  "keywords": [
+    "game",
+    "movement",
+    "3d",
+    "movement"
+  ],
+  "author": "samunt",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline": "^1.3.0",
+    "require.js": "^1.0.0"
+  }
+}
